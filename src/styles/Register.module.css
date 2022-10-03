@@ -1,0 +1,19 @@
+.container {
+    margin-bottom: 12rem;
+}
+
+.form {
+    margin: 5rem auto 2rem auto;
+    width: 248px;
+    justify-items: center;
+}
+
+.form input {
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.form button {
+    margin-top: 5px;
+    width: 100%;
+}
